@@ -17,7 +17,7 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * Scriptsprachen: [Shell](https://www.shellcheck.net/) && [Python](https://www.python.org/)
 * Automatisierung: z.b. [Ansible](https://www.ansible.com/), [SSH](https://www.openssh.com/) und [VIM](https://www.vim.org/)
 * Security und neue Technologien: z.b. [Hacker News](https://news.ycombinator.com/news)
-* Netzwerk und Firewalls
+* Storage, Netzwerk und Firewalls
 
 ### ein typischer Tag
 * selten zu 100% planbar
