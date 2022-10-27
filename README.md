@@ -16,12 +16,12 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * reproduzierbare, z.b. [Linux!](https://kernel.org/) und andere Betriebssysteme 8-)
 * Scriptsprachen: [Shell](https://www.shellcheck.net/) && [Python](https://www.python.org/)
 * Automatisierung: z.b. [Ansible](https://www.ansible.com/)
-* Security: z.b. [Hacker News](https://news.ycombinator.com/news)
+* Security und neue Technologien: z.b. [Hacker News](https://news.ycombinator.com/news)
 * Netzwerk und Firewalls
 
 ### ein typischer Tag
 * selten zu 100% planbar
-* ..."erstmal Logs sichern, alles neustarten und analysieren"
+* Da ist was rot! ..."erstmal Logs sichern, alles neustarten und analysieren"
 * Anderen helfen und Probleme lösen
 
 ### Übungen
