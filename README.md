@@ -1,6 +1,4 @@
-# https://github.com/bittorf/sysadmin
-# sysadmin
-Berufsbild eines System Administrators
+# Berufsbild eines System Administrators
 
 ### Wir haben einen dedizierten Feiertag!
 https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
@@ -10,6 +8,7 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * damals: Turnschuhadmin vs. heute: Virtualisierung auf dicken Maschinen
 
 ### typisches Tägliches Handwerkszeug
+* Teamwork!
 * Kommunikation: E-Mail + Chat + Videocalls
 * Organisation: z.b. [Jira](https://de.wikipedia.org/wiki/Jira_(Software))
 * Monitoring: z.b. [Icinga2](https://icinga.com/docs/icinga-2/latest/doc/01-about/)
@@ -21,3 +20,5 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 
 ### Übungen
 * https://sadservers.com/
+* siehe [sysadmin](https://github.com/bittorf/sysadmin)
+
