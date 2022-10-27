@@ -26,5 +26,5 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 
 ### Übungen
 * https://sadservers.com/
-* siehe [sysadmin](https://github.com/bittorf/sysadmin)
+* Selflink [sysadmin](https://github.com/bittorf/sysadmin)
 
