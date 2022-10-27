@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * https://github.com/runvnc/dadsresume
 * damals: Turnschuhadmin vs. heute: Virtualisierung auf dicken Maschinen
 
-### typisches Tägliches Handwerkszeug
+### typisches tägliches Handwerkszeug
 * Kaffee && Pizza?
 * Teamwork!
 * Kommunikation: E-Mail + Chat + Videocalls
@@ -22,7 +22,7 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 ### ein typischer Tag
 * selten zu 100% planbar
 * ..."erstmal Logs sichern und alles neustarten"
-* anderen helfen und Probleme lösen
+* Anderen helfen und Probleme lösen
 
 ### Übungen
 * https://sadservers.com/
