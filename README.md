@@ -20,6 +20,7 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * Netzwerk und Firewalls
 
 ### ein typischer Tag
+* selten zu 100% planbar
 * ..."erstmal Logs sichern und alles neustarten"
 * anderen helfen und Probleme lösen
 
