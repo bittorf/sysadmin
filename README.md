@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * Monitoring: z.b. [Icinga2](https://icinga.com/docs/icinga-2/latest/doc/01-about/)
 * reproduzierbare, z.b. [Linux!](https://kernel.org/) und andere Betriebssysteme 8-)
 * Scriptsprachen: [Shell](https://www.shellcheck.net/) && [Python](https://www.python.org/)
-* Automatisierung: z.b. [Ansible](https://www.ansible.com/)
+* Automatisierung: z.b. [Ansible](https://www.ansible.com/), [SSH](https://www.openssh.com/) und [VIM](https://www.vim.org/)
 * Security und neue Technologien: z.b. [Hacker News](https://news.ycombinator.com/news)
 * Netzwerk und Firewalls
 
