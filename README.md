@@ -8,6 +8,7 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * damals: Turnschuhadmin vs. heute: Virtualisierung auf dicken Maschinen
 
 ### typisches Tägliches Handwerkszeug
+* Kaffee && Pizza?
 * Teamwork!
 * Kommunikation: E-Mail + Chat + Videocalls
 * Organisation: z.b. [Jira](https://de.wikipedia.org/wiki/Jira_(Software))
