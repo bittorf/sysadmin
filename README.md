@@ -12,7 +12,7 @@ https://github.com/runvnc/dadsresume
 * Kommunikation: e-Mail + Chat (z.b. Teams) + Videocalls
 * Scriptsprachen: Shell && Python
 * Monitoring: z.b. Icinga2
-* Security: z.b. (https://news.ycombinator.com/news)[Hacker News]
+* Security: z.b. [Hacker News](https://news.ycombinator.com/news)
 
 ### Übungen
 https://sadservers.com/
