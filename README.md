@@ -17,7 +17,7 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * Scriptsprachen: [Shell](https://www.shellcheck.net/) && [Python](https://www.python.org/)
 * Automatisierung: z.b. [Ansible](https://www.ansible.com/)
 * Security: z.b. [Hacker News](https://news.ycombinator.com/news)
-* erstmal Logs sichern und alles neustarten
+* ..."erstmal Logs sichern und alles neustarten"
 
 ### Übungen
 * https://sadservers.com/
