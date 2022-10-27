@@ -24,6 +24,7 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * ...umsetzen von geplanten Arbeiten (Tickets)
 * und: Da ist was rot! ..."erstmal Logs sichern, alles neustarten und analysieren"
 * Anderen helfen und Probleme lösen
+* daran arbeiten, das alle "ruhig schlafen" können
 
 ### Übungen
 * https://sadservers.com/
