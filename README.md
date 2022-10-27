@@ -17,7 +17,10 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * Automatisierung: z.b. [Ansible](https://www.ansible.com/)
 * Security: z.b. [Hacker News](https://news.ycombinator.com/news)
 * Netzwerk und Firewalls
-** ..."erstmal Logs sichern und alles neustarten"
+
+### ein typischer Tag
+* ..."erstmal Logs sichern und alles neustarten"
+* anderen helfen und Probleme lösen
 
 ### Übungen
 * https://sadservers.com/
