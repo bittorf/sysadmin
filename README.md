@@ -21,7 +21,7 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 
 ### ein typischer Tag
 * selten zu 100% planbar
-* ..."erstmal Logs sichern und alles neustarten"
+* ..."erstmal Logs sichern, alles neustarten und analysieren"
 * Anderen helfen und Probleme lösen
 
 ### Übungen
