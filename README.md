@@ -20,8 +20,9 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * Storage, Netzwerk und Firewalls
 
 ### ein typischer Tag
-* selten zu 100% planbar
-* Da ist was rot! ..."erstmal Logs sichern, alles neustarten und analysieren"
+* selten zu 100% planbar, aber...
+* ...umsetzen von geplanten Arbeiten (Tickets)
+* und: Da ist was rot! ..."erstmal Logs sichern, alles neustarten und analysieren"
 * Anderen helfen und Probleme lösen
 
 ### Übungen
