@@ -6,6 +6,10 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 ### Früher war alles anders
 * https://github.com/runvnc/dadsresume
 * damals: Turnschuhadmin vs. heute: Virtualisierung auf dicken Maschinen
+* Bezeichnung ändert sich im Laufe der Jahre:
+** Operator (1970)
+** Administrator (2000)
+** Sysadmin, DevOp, Site-Reliability-Engineer (2023)
 
 ### typisches tägliches Handwerkszeug
 * Kaffee && Pizza?
