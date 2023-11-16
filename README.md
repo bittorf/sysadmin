@@ -34,3 +34,4 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * https://sadservers.com/
 * Selflink [sysadmin](https://github.com/bittorf/sysadmin)
 * [Das UNIX Spiel](https://unixgame.io)
+* [How-to-VIM-Editor](https://vim-adventures.com)
