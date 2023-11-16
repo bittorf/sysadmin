@@ -29,4 +29,4 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 ### Übungen
 * https://sadservers.com/
 * Selflink [sysadmin](https://github.com/bittorf/sysadmin)
-
+* [Das UNIX Spiel](https://unixgame.io)
