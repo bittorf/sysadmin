@@ -36,3 +36,5 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * [Das UNIX Spiel](https://unixgame.io)
 * [How-to-VIM-Editor](https://vim-adventures.com)
 * bits sparen: [1-Kilobyte-Club](http://intercity-vpn.de)
+
+![Irgend ein alter Computer mit Frau und Lichtgriffel aus den 1970ern](lichtgriffel.jpg "Wir bauen an der Zukunft!")
