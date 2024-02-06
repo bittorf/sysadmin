@@ -31,11 +31,12 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * daran arbeiten, das alle "ruhig schlafen" können
 
 ### Übungen
-* https://sadservers.com/
-* Selflink [sysadmin](https://github.com/bittorf/sysadmin)
+* Reparieren üben [make a sad server happy](https://sadservers.com/)
+* Krieg spielen: [wargames](https://overthewire.org/wargames/)
 * [Das UNIX Spiel](https://unixgame.io)
 * [How-to-VIM-Editor](https://vim-adventures.com)
 * bits sparen: [1-Kilobyte-Club](http://intercity-vpn.de)
+* Selflink [sysadmin](https://github.com/bittorf/sysadmin)
 
 ![Irgend ein alter Computer mit Frau und Lichtgriffel aus den 1970ern](lichtgriffel.jpg "Wir bauen an der Zukunft!")
 
