@@ -1,7 +1,8 @@
 # Berufsbild eines System Administrators
 
 ### Wir haben einen dedizierten Feiertag!
-https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
+* https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
+* und: https://en.wikipedia.org/wiki/World_Backup_Day
 
 ### Früher war alles anders
 * https://github.com/runvnc/dadsresume
@@ -9,7 +10,7 @@ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 * Bezeichnung ändert sich im Laufe der Jahre:
   * Operator (1970)
   * Administrator (2000)
-  * Sysadmin, DevOp, Site-Reliability-Engineer (2023)
+  * Sysadmin, DevOp, Site-Reliability-Engineer (2024)
 
 ### typisches tägliches Handwerkszeug
 * Kaffee && Pizza?
