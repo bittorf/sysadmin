@@ -1,8 +1,8 @@
 # Berufsbild eines System Administrators
 
 ### Wir haben einen dedizierten Feiertag!
-* https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
-* und: https://en.wikipedia.org/wiki/World_Backup_Day
+* https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day (letzter Freitag im Juli)
+* und: https://en.wikipedia.org/wiki/World_Backup_Day (31. März)
 
 ### Früher war alles anders
 * https://github.com/runvnc/dadsresume
