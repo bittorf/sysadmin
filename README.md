@@ -38,6 +38,7 @@
 * [How-to-VIM-Editor](https://vim-adventures.com)
 * [Das-GIT-Spiel] (https://ohmygit.org)
 * Programmier etwas: [protohackers](https://protohackers.com/problem/0)
+* Sicherheitslücken verstehen: [exploit.education](https://exploit.education)
 * bits sparen: [1-Kilobyte-Club](http://intercity-vpn.de)
 * Selflink [sysadmin](https://github.com/bittorf/sysadmin)
 
