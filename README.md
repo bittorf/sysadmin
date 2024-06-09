@@ -26,6 +26,7 @@
 
 ### ein typischer Tag
 * selten zu 100% planbar, aber...
+* ...zuerst wir müssen [die Feindpresse](https://news.ycombinator.com) lesen und
 * ...umsetzen von geplanten Arbeiten (Tickets)
 * und: Da ist was rot! ..."erstmal Logs sichern, alles neustarten und analysieren"
 * Anderen helfen und Probleme lösen
