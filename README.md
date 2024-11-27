@@ -6,11 +6,11 @@
 
 ### Früher war alles anders
 * https://github.com/runvnc/dadsresume
-* damals: Turnschuhadmin vs. heute: Virtualisierung auf dicken Maschinen
+* damals: Turnschuhadmin vs. heute: [Virtualisierung auf dicken Maschinen die wir kleinschneiden](https://blog.koehntopp.info/2024/09/30/cloud-cost-vs-on-premises-cost.html)
 * Bezeichnung ändert sich im Laufe der Jahre:
   * Operator (1970)
   * Administrator (2000)
-  * Sysadmin, DevOp, Site-Reliability-Engineer (2024)
+  * Sysadmin, DevOp, SRE/Site-Reliability-Engineer (2024)
 
 ### typisches tägliches Handwerkszeug
 * Kaffee && Pizza?
