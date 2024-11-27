@@ -21,7 +21,7 @@
 * reproduzierbare, z.b. [Linux!](https://kernel.org/) und andere Betriebssysteme 8-)
 * Scriptsprachen: [Shell](https://www.shellcheck.net/) && [Python](https://www.python.org/)
 * Krypto-Übungen: [twine-CTF](https://github.com/mschmidt1703/twine-ctf/)
-* Automatisierung: z.b. [Ansible](https://www.ansible.com/), [SSH](https://www.openssh.com/) und [VIM](https://www.vim.org/)
+* Automatisierung: z.b. [Ansible](https://www.ansible.com/), [SSH](https://github.com/villasv/ssh-artwork) und [VIM](https://www.vim.org/)
 * Security und neue Technologien: z.b. [Hacker News](https://news.ycombinator.com/news)
 * Storage, Netzwerk und Firewalls
 
